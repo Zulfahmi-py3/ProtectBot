@@ -1,10 +1,8 @@
-## For install Tutorial [HERE](https://www.youtube.com/watch?v=v_h-t8iGYzQ&t=28s)
+## For install Tutorial 
 *LINE Messaging's private API*
 
 ----
-# [ADD ME!](http://line.me/ti/p/~adit_cmct)
-# Ambil Token Bisa Di
-# [ADITMADZS BOT Public](line.me/ti/p/~botaditmadzs)
+# [ADD ME!](http://line.me/ti/p/~zulfahmi78)
 
 # Termux
 
@@ -27,9 +25,9 @@ $ pip3 install thrift==0.11.0
 $ pip3 install tweepy
 $ pip3 install wikipedia
 $ apt install git
-$ git clone https://github.com/Aditmadzs/Protect4
-$ cd Protect4
-$ python3 adit4.py
+$ git clone https://github.com/Zulfahmi-py3/ProtectBot
+$ cd ProtectBot
+$ python3 walet.py
 ```
 
 # VPS
@@ -51,8 +49,8 @@ $ sudo pip3 install thrift==0.11.0
 $ sudo pip3 install tweepy
 $ sudo pip3 install wikipedia
 $ sudo apt-get install git
-$ git clone https://github.com/Aditmadzs/Protect4
-$ cd Protect4
-$ python3 adit4.py
+$ git clone https://github.com/Zulfahmi-py3/ProtectBot
+$ cd ProtectBot
+$ python3 walet.py
 ```
 
