@@ -1,8 +1,8 @@
-## For install Tutorial 
+## CARA INSTALL BOT 
 *LINE Messaging's private API*
 
 ----
-# [ADD ME!](http://line.me/ti/p/~zulfahmi78)
+# [MY LINE!](http://line.me/ti/p/~zulfahmi78)
 
 # Termux
 
